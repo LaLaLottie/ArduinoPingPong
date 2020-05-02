@@ -1,2 +1,2 @@
 # CS362Project
-CS 362 Project - Game Logic
+This is a group class project (CS 362) and this file contains both of two members' contributions.  This is an ping pong game created using Arduino and some hardware components (game controllers, LCD screen, buttons, and etc.) in order to play a ping pong game where the opponent is the computer.  This is a one-player game and the controllers and buttons are used to move the ball on the screen to pass the goal and beat the computer. 
